@@ -7,7 +7,7 @@ function Section5 (){
         <section className={Style.BoxSection3}>
                
                 <div className={Style.BoxSection3Img}>
-                    <img src={Nami} className={Style.Nami}/>
+                    
                       <div className={Style.BoxTexto}>
                         <p>Estilos de desenho</p>
                         <p>
@@ -17,7 +17,7 @@ function Section5 (){
                         Realismo<br/>
                         </p>
                       </div>
-                    <img src={Luffy} className={Style.Luffy}/>
+                    
                 </div>
     
         </section>

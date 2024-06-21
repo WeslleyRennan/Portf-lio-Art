@@ -3,17 +3,26 @@
 }
 .Box2{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
 }
 .Box3{
-    height: 380px;
-    width: 500px;
+    height: 580px;
+    width: 580px;
+    background-image: url(Tinta2.png);
+    background-repeat: no-repeat;
+    background-position: center, center;
+    background-size: cover;
+    display: flex;
     align-items: center;
+    justify-content: center;
+}
+.Box4{
+    width: 80%;
 }
 .TextoMeu{
     color: white;
-    font-size: 2.5em;
+    font-size: 2em;
     text-align: center;
 }
 @media screen and (max-width: 1024px){
@@ -21,12 +30,17 @@
         width: 20em;
     }
     .Box3{
-        height: 350px;
-        width: 500px;
-        margin: 10px;
+        height: 550px;
+        width: 550px;
     }
     .TextoMeu{
-        font-size: 2.4em;
+        font-size: 2em;
+    }
+}
+@media screen and (max-width: 900px){
+    .Box3{
+        height: 500px;
+        width: 500px;
     }
 }
 @media screen and (max-width: 800px){
@@ -38,20 +52,21 @@
         gap: 20px;
     }
     .Box3{
-        height: 400px;
-        width: 90%;
-        margin: 10px;
+        height: 700px;
+        width: 700px;
+        margin: 15px;
     }
     .TextoMeu{
-        font-size: 3em;
+        font-size: 2.7em;
     }
 }
 @media screen and (max-width: 750px){
+    .Box3{
+        height: 700px;
+        width: 700px;
+    }
     .TextoMeu{
         font-size: 2.5em;
-    }
-    .Box3{
-        margin: 10px;
     }
 }
 @media screen and (max-width: 600px){
@@ -63,9 +78,8 @@
         gap: 20px;
     }
     .Box3{
-        height: 300px;
-        width: 400px;
-        margin: 10px;
+        height: 500px;
+        width: 500px;
     }
     .TextoMeu{
         font-size: 1.8em;
@@ -80,12 +94,11 @@
         gap: 20px;
     }
     .Box3{
-        height: 90%;
-        width: 90%;
-        margin: 10px;
+        height: 450px;
+        width: 450px;
     }
     .TextoMeu{
-        font-size: 1.8em;
+        font-size: 1.7em;
     }
 }
 @media screen and (max-width: 360px){
@@ -97,9 +110,8 @@
         gap: 20px;
     }
     .Box3{
-        height: 90%;
-        width: 90%;
-        margin: 10px;
+        height: 400px;
+        width: 400px;
     }
     .TextoMeu{
         font-size: 1.6em;
@@ -113,11 +125,10 @@
         flex-direction: column;
     }
     .Box3{
-        height: 90%;
-        width: 90%;
-        margin: 10px;
+        height: 300px;
+        width: 300px;
     }
     .TextoMeu{
-        font-size: 1.5em;
+        font-size: 1.2em;
     }
 }

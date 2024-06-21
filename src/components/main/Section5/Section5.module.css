@@ -17,10 +17,15 @@
     z-index: -1;
 }
 .BoxSection3Img{
+    height: 600px;
     width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-image: url(Tinda4.png);
+    background-position: center, center;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 .BoxTexto{
     color: white;
@@ -31,13 +36,8 @@
     .BoxSection3{
         height: 500px;
     }
-    .Nami{
-        width: 280px;
-        top: -160px;
-    }
-    .Luffy{
-        width: 280px;
-        bottom: -120px;
+    .BoxSection3Img{
+        background-size: contain;
     }
     .BoxTexto{
         font-size: 2.4em;
@@ -47,14 +47,6 @@
     .BoxSection3{
         height: 600px;
     }
-    .Nami{
-        width: 260px;
-        top: -200px;
-    }
-    .Luffy{
-        width: 260px;
-        bottom: -170px;
-    }
     .BoxTexto{
         font-size: 2.4em;
     }
@@ -63,14 +55,6 @@
     .BoxSection3{
         height: 450px;
     }
-    .Nami{
-        width: 200px;
-        top: -180px;
-    }
-    .Luffy{
-        width: 200px;
-        bottom: -140px;
-    }
     .BoxTexto{
         font-size: 2.1em;
     }
@@ -78,14 +62,6 @@
 @media screen and (max-width: 600px){
     .BoxSection3{
         height: 800px;
-    }
-    .Nami{
-        width: 250px;
-        top: -40px;
-    }
-    .Luffy{
-        width: 250px;
-        bottom: -10px;
     }
     .BoxSection3Img{
         flex-direction: column;
@@ -99,14 +75,6 @@
         height: 600px;
         
     }
-    .Nami{
-        width: 200px;
-        top: -40px;
-    }
-    .Luffy{
-        width: 200px;
-        bottom: -10px;
-    }
     .BoxSection3Img{
         flex-direction: column;
     }
@@ -118,14 +86,6 @@
     .BoxSection3{
         height: 800px;
     }
-    .Nami{
-        width: 240px;
-        top: -100px;
-    }
-    .Luffy{
-        width: 240px;
-        bottom: -50px;
-    }
     .BoxSection3Img{
         flex-direction: column;
     }
@@ -135,15 +95,7 @@
 }
 @media screen and (max-width: 320px){
     .BoxSection3{
-        height: 800px;
-    }
-    .Nami{
-        width: 200px;
-        top: -100px;
-    }
-    .Luffy{
-        width: 200px;
-        bottom: -50px;
+        height: 600px;
     }
     .BoxSection3Img{
         flex-direction: column;

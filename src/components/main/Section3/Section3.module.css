@@ -5,6 +5,10 @@
     align-items: center;
     justify-content: center;
     gap: 50px;
+    background-image: url(Tinda3.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center, center;
 }
 h1{
     color: white;
@@ -31,6 +35,9 @@ h1{
     }
 }
 @media screen and (max-width: 600px){
+    .BoxSoftwares{
+        background-size: cover;
+    }
     .BoxSoftwaresImg{
         width: 90%;
         flex-wrap: wrap;
@@ -40,6 +47,10 @@ h1{
     }
 }
 @media screen and (max-width: 414px){
+    .BoxSoftwares{
+        background-size: 500px;
+        background-position: top, center;
+    }
     h1{
         font-size: 2.8em;
     }
@@ -52,6 +63,10 @@ h1{
     }
 }
 @media screen and (max-width: 360px){
+    .BoxSoftwares{
+        background-size: 550px;
+        background-position: top, center;
+    }
     .BoxSoftwaresImg{
         width: 90%;
         flex-wrap: wrap;
@@ -61,6 +76,10 @@ h1{
     }
 }
 @media screen and (max-width: 320px){
+    .BoxSoftwares{
+        background-size: 560px;
+        background-position: top, center;
+    }
     .BoxSoftwaresImg{
         width: 90%;
         flex-wrap: wrap;
