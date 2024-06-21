@@ -1,0 +1,71 @@
+.BoxSoftwares{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+h1{
+    color: white;
+    font-size: 3em;
+    text-align: center;
+}
+.BoxSoftwaresImg{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.SoftwaresImg{
+    width: 120px;
+}
+@media screen and (max-width: 1024px){
+    h1{
+        font-size: 3.2em;
+    }
+}
+@media screen and (max-width: 800px){
+    h1{
+        font-size: 3em;
+    }
+}
+@media screen and (max-width: 600px){
+    .BoxSoftwaresImg{
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .SoftwaresImg{
+        width: 100px;
+    }
+}
+@media screen and (max-width: 414px){
+    h1{
+        font-size: 2.8em;
+    }
+    .BoxSoftwaresImg{
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .SoftwaresImg{
+        width: 100px;
+    }
+}
+@media screen and (max-width: 360px){
+    .BoxSoftwaresImg{
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .SoftwaresImg{
+        width: 90px;
+    }
+}
+@media screen and (max-width: 320px){
+    .BoxSoftwaresImg{
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .SoftwaresImg{
+        width: 90px;
+    }
+}

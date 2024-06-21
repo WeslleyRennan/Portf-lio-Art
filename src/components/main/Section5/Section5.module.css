@@ -1,0 +1,154 @@
+.BoxSection3{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.Nami{
+    width: 400px;
+    position: relative;
+    top: -60px;
+    z-index: -1;
+}
+.Luffy{
+    width: 400px;
+    position: relative;
+    bottom: -60px;
+    z-index: -1;
+}
+.BoxSection3Img{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.BoxTexto{
+    color: white;
+    text-align: center;
+    font-size: 2.4em;
+}
+@media screen and (max-width: 1024px){
+    .BoxSection3{
+        height: 500px;
+    }
+    .Nami{
+        width: 280px;
+        top: -160px;
+    }
+    .Luffy{
+        width: 280px;
+        bottom: -120px;
+    }
+    .BoxTexto{
+        font-size: 2.4em;
+    }
+}
+@media screen and (max-width: 800px){
+    .BoxSection3{
+        height: 600px;
+    }
+    .Nami{
+        width: 260px;
+        top: -200px;
+    }
+    .Luffy{
+        width: 260px;
+        bottom: -170px;
+    }
+    .BoxTexto{
+        font-size: 2.4em;
+    }
+}
+@media screen and (max-width: 750px){
+    .BoxSection3{
+        height: 450px;
+    }
+    .Nami{
+        width: 200px;
+        top: -180px;
+    }
+    .Luffy{
+        width: 200px;
+        bottom: -140px;
+    }
+    .BoxTexto{
+        font-size: 2.1em;
+    }
+}
+@media screen and (max-width: 600px){
+    .BoxSection3{
+        height: 800px;
+    }
+    .Nami{
+        width: 250px;
+        top: -40px;
+    }
+    .Luffy{
+        width: 250px;
+        bottom: -10px;
+    }
+    .BoxSection3Img{
+        flex-direction: column;
+    }
+    .BoxTexto{
+        font-size: 2.4em;
+    }
+}
+@media screen and (max-width: 414px){
+    .BoxSection3{
+        height: 600px;
+        
+    }
+    .Nami{
+        width: 200px;
+        top: -40px;
+    }
+    .Luffy{
+        width: 200px;
+        bottom: -10px;
+    }
+    .BoxSection3Img{
+        flex-direction: column;
+    }
+    .BoxTexto{
+        font-size: 2.1em;
+    }
+}
+@media screen and (max-width: 360px){
+    .BoxSection3{
+        height: 800px;
+    }
+    .Nami{
+        width: 240px;
+        top: -100px;
+    }
+    .Luffy{
+        width: 240px;
+        bottom: -50px;
+    }
+    .BoxSection3Img{
+        flex-direction: column;
+    }
+    .BoxTexto{
+        font-size: 2.2em;
+    }
+}
+@media screen and (max-width: 320px){
+    .BoxSection3{
+        height: 800px;
+    }
+    .Nami{
+        width: 200px;
+        top: -100px;
+    }
+    .Luffy{
+        width: 200px;
+        bottom: -50px;
+    }
+    .BoxSection3Img{
+        flex-direction: column;
+    }
+    .BoxTexto{
+        font-size: 2em;
+    }
+}

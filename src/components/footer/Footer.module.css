@@ -1,0 +1,76 @@
+footer{
+    height: 550px;
+    background-image: url(Fundo3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 2.2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.FooterImg{
+    width: 180px;
+}
+.Creditos{
+    width: 400px;
+    text-align: center;
+}
+@media screen and (max-width: 1024px){
+    .FooterImg{
+        width: 200px;
+    }
+    .Creditos{
+        width: 400px;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 800px){
+    .FooterImg{
+        width: 180px;
+    }
+    .Creditos{
+        width: 400px;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 600px){
+    footer{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .Creditos{
+        width: 250px;
+        font-size: 30px;
+    }
+}
+@media screen and (max-width: 414px){
+    footer{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .Creditos{
+        width: 250px;
+        font-size: 30px;
+    }
+}
+@media screen and (max-width: 360px){
+    footer{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .Creditos{
+        width: 250px;
+        font-size: 30px;
+    }
+}
+@media screen and (max-width: 320px){
+    footer{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .Creditos{
+        width: 200px;
+        font-size: 25px;
+    }
+}

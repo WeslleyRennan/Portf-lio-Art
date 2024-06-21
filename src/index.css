@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Fliped';
+    src:url('./fontes/Fliped.ttf.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'WCManoNegroBta';
+    src:url('./fontes/WCManoNegraBta.otf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+h1{ 
+    font-family: 'Fliped';
+ }
+ p{
+    font-family: 'WCManoNegroBta';
+ }

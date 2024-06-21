@@ -1,0 +1,123 @@
+header{
+    background-image: url('Fundo1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom,center;
+    height: 600px;
+}
+.Box{
+    width: 100%;
+    height: 85%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.TextoPortfolio{
+    color: #05D7FE;
+    font-size: 120px;
+}
+.TextoWeslleyRennan{
+    color: white;
+    font-size: 65px;
+}
+.Design1{
+    width: 19em;
+}
+@media screen and (max-width: 1024px){
+    .Box{
+        justify-content: space-evenly;
+    }
+    .TextoPortfolio{
+        font-size: 100px;
+    }
+    .TextoWeslleyRennan{
+        font-size: 60px;
+    }
+    .Design1{
+        width: 16em;
+    }
+}
+@media screen and (max-width: 800px){
+    .Box{
+        justify-content: space-evenly;
+    }
+    .TextoPortfolio{
+        font-size: 90px;
+    }
+    .TextoWeslleyRennan{
+        font-size: 55px;
+    }
+    .Design1{
+        width: 14em;
+    }
+}
+@media screen and (max-width :600px){
+    header{
+        height: 700px;
+    }
+    .Box{
+        justify-content: center;
+        gap: 15px;
+        flex-direction: column;
+    }
+    .TextoPortfolio{
+        font-size: 90px;
+    }
+    .TextoWeslleyRennan{
+        font-size: 55px;
+    }
+    .Design1{
+        width: 14em;
+    }
+}
+@media screen and (max-width :414px){
+    .Box{
+        justify-content: center;
+        gap: 15px;
+        flex-direction: column;
+    }
+    .TextoPortfolio{
+        font-size: 80px;
+    }
+    .TextoWeslleyRennan{
+        font-size: 50px;
+    }
+    .Design1{
+        width: 13em;
+    }
+}
+@media  screen and (max-width :360px){
+    .Box{
+        justify-content: center;
+        gap: 10px;
+        flex-direction: column;
+    }
+    .TextoPortfolio{
+        font-size: 75px;
+    }
+    .TextoWeslleyRennan{
+        font-size: 45px;
+    }
+    .Design1{
+        width: 12em;
+    }
+}
+@media screen and (max-width: 320px){
+    .header{
+        height: 800px;
+    }
+    .Box{
+        justify-content: center;
+        gap: 10px;
+        flex-direction: column;
+    }
+    .TextoPortfolio{
+        font-size: 70px;
+    }
+    .TextoWeslleyRennan{
+        font-size: 40px;
+    }
+    .Design1{
+        width: 10em;
+    }
+}
