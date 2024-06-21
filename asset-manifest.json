@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portf-lio-Art/static/css/main.670a95d2.css",
-    "main.js": "/Portf-lio-Art/static/js/main.ec722bad.js",
+    "main.css": "/Portf-lio-Art/static/css/main.b5a6472b.css",
+    "main.js": "/Portf-lio-Art/static/js/main.ea14ba0b.js",
     "static/js/453.48b86de1.chunk.js": "/Portf-lio-Art/static/js/453.48b86de1.chunk.js",
     "static/media/Design3.png": "/Portf-lio-Art/static/media/Design3.54c0dc57eb33eb2aea58.png",
     "static/media/Fundo2.png": "/Portf-lio-Art/static/media/Fundo2.38482b4b1827e4844268.png",
@@ -9,6 +9,7 @@
     "static/media/Design1.png": "/Portf-lio-Art/static/media/Design1.7528f0ebfcccf5826236.png",
     "static/media/Fundo1.png": "/Portf-lio-Art/static/media/Fundo1.0792b2a2d2a72d798a03.png",
     "static/media/bumblebee.jpg": "/Portf-lio-Art/static/media/bumblebee.946e0c936ac231dd4eeb.jpg",
+    "static/media/Ti.png": "/Portf-lio-Art/static/media/Ti.aea12905a9b517e1050f.png",
     "static/media/Fundo3.png": "/Portf-lio-Art/static/media/Fundo3.e79fadc54b256e28094a.png",
     "static/media/luffy.jpg": "/Portf-lio-Art/static/media/luffy.150e291433dad7a7e511.jpg",
     "static/media/Tanjiro.jpeg": "/Portf-lio-Art/static/media/Tanjiro.4b0fefbdc0d02a6035c4.jpeg",
@@ -23,13 +24,16 @@
     "static/media/FlipaClip.png": "/Portf-lio-Art/static/media/FlipaClip.7c65109798a64b43a16b.png",
     "static/media/WCManoNegraBta.otf": "/Portf-lio-Art/static/media/WCManoNegraBta.4ed02fa923cb3598d923.otf",
     "static/media/Sketchbook.png": "/Portf-lio-Art/static/media/Sketchbook.344ac4e8614e482b4c29.png",
+    "static/media/Tinta2.png": "/Portf-lio-Art/static/media/Tinta2.9f33fd7a6772d49fd744.png",
+    "static/media/Tinda3.png": "/Portf-lio-Art/static/media/Tinda3.ba05f3b3ab69226a3f09.png",
+    "static/media/Tinda4.png": "/Portf-lio-Art/static/media/Tinda4.dc6131787a27e2ebfde2.png",
     "index.html": "/Portf-lio-Art/index.html",
-    "main.670a95d2.css.map": "/Portf-lio-Art/static/css/main.670a95d2.css.map",
-    "main.ec722bad.js.map": "/Portf-lio-Art/static/js/main.ec722bad.js.map",
+    "main.b5a6472b.css.map": "/Portf-lio-Art/static/css/main.b5a6472b.css.map",
+    "main.ea14ba0b.js.map": "/Portf-lio-Art/static/js/main.ea14ba0b.js.map",
     "453.48b86de1.chunk.js.map": "/Portf-lio-Art/static/js/453.48b86de1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.670a95d2.css",
-    "static/js/main.ec722bad.js"
+    "static/css/main.b5a6472b.css",
+    "static/js/main.ea14ba0b.js"
   ]
 }
