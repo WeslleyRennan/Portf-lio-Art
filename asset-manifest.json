@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portf-lio-Art/static/css/main.09e2ecda.css",
+    "main.css": "/Portf-lio-Art/static/css/main.eba82451.css",
     "main.js": "/Portf-lio-Art/static/js/main.04e9d315.js",
     "static/js/453.48b86de1.chunk.js": "/Portf-lio-Art/static/js/453.48b86de1.chunk.js",
     "static/media/Design3.png": "/Portf-lio-Art/static/media/Design3.54c0dc57eb33eb2aea58.png",
@@ -31,12 +31,12 @@
     "static/media/Tinda3.png": "/Portf-lio-Art/static/media/Tinda3.ba05f3b3ab69226a3f09.png",
     "static/media/Tinda4.png": "/Portf-lio-Art/static/media/Tinda4.dc6131787a27e2ebfde2.png",
     "index.html": "/Portf-lio-Art/index.html",
-    "main.09e2ecda.css.map": "/Portf-lio-Art/static/css/main.09e2ecda.css.map",
+    "main.eba82451.css.map": "/Portf-lio-Art/static/css/main.eba82451.css.map",
     "main.04e9d315.js.map": "/Portf-lio-Art/static/js/main.04e9d315.js.map",
     "453.48b86de1.chunk.js.map": "/Portf-lio-Art/static/js/453.48b86de1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09e2ecda.css",
+    "static/css/main.eba82451.css",
     "static/js/main.04e9d315.js"
   ]
 }
