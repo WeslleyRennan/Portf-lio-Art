@@ -62,11 +62,11 @@
 }
 @media screen and (max-width: 750px){
     .Box3{
-        height: 700px;
-        width: 700px;
+        height: 600px;
+        width: 600px;
     }
     .TextoMeu{
-        font-size: 2.5em;
+        font-size: 2.2em;
     }
 }
 @media screen and (max-width: 600px){
@@ -82,9 +82,24 @@
         width: 500px;
     }
     .TextoMeu{
+        height: 250px;
         font-size: 1.8em;
+        display: flex;
+        align-items: center;
     }
 }
+@media screen and (max-width: 428px){
+    .Box3{
+        height: 420px;
+        width: 420px;
+    }
+    .TextoMeu{
+        height: 250px;
+        font-size: 1.5em;
+        display: flex;
+        align-items: center;
+    }
+} 
 @media screen and (max-width: 414px) {
     .Foto2{
         width: 13em;
@@ -94,11 +109,26 @@
         gap: 20px;
     }
     .Box3{
-        height: 450px;
-        width: 450px;
+        height: 390px;
+        width: 390px;
     }
     .TextoMeu{
-        font-size: 1.7em;
+        height: 250px;
+        font-size: 1.4em;
+        display: flex;
+        align-items: center;
+    }
+}
+@media screen and (max-width: 375px){
+    .Box3{
+        height: 360px;
+        width: 360px;
+    }
+    .TextoMeu{
+        height: 250px;
+        font-size: 1.4em;
+        display: flex;
+        align-items: center;
     }
 }
 @media screen and (max-width: 360px){
@@ -110,11 +140,14 @@
         gap: 20px;
     }
     .Box3{
-        height: 400px;
-        width: 400px;
+        height: 350px;
+        width: 350px;
     }
     .TextoMeu{
-        font-size: 1.6em;
+        height: 250px;
+        font-size: 1.4em;
+        display: flex;
+        align-items: center;
     }
 }
 @media screen and (max-width: 320px){
