@@ -3,4 +3,126 @@
     background-image: url('Fundo2.png');
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.TextProcesso{
+    color: #05D7FE;
+    font-size: 3em;
+}
+.BoxEsbocoImg{
+    height: 500px;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.EsbocoImg{
+    height: 450px;
+    width: 340px;
+    object-fit: cover;
+}
+@media screen and (max-width: 1020px){
+    .BoxEsboco{
+        height: 1200px;
+    }
+    .TextProcesso{
+        font-size: 3.5em;
+    }
+    .BoxEsbocoImg{
+        height: 800px;
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .EsbocoImg{
+        height: 400px;
+        width: 300px;
+    }
+}
+@media screen and (max-width: 800px){
+    .BoxEsboco{
+        height: 1200px;
+    }
+    .TextProcesso{
+        font-size: 3.5em;
+    }
+    .BoxEsbocoImg{
+        height: 800px;
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .EsbocoImg{
+        height: 400px;
+        width: 300px;
+    }
+}
+@media screen and (max-width: 600px){
+    .BoxEsboco{
+        height: 1200px;
+    }
+    .TextProcesso{
+        font-size: 3.5em;
+    }
+    .BoxEsbocoImg{
+        height: 800px;
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .EsbocoImg{
+        height: 260px;
+        width: 210px;
+    }
+}
+@media screen and (max-width: 414px){
+    .BoxEsboco{
+        height: 1200px;
+    }
+    .TextProcesso{
+        font-size: 3.5em;
+    }
+    .BoxEsbocoImg{
+        height: 800px;
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .EsbocoImg{
+        height: 260px;
+        width: 210px;
+    }
+}
+@media screen and (max-width: 360px){
+    .BoxEsboco{
+        height: 1200px;
+    }
+    .TextProcesso{
+        font-size: 3em;
+    }
+    .BoxEsbocoImg{
+        height: 800px;
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .EsbocoImg{
+        height: 250px;
+        width: 200px;
+    }
+}
+@media screen and (max-width: 320px) {
+    .BoxEsboco{
+        height: 1000px;
+    }
+    .TextProcesso{
+        font-size: 3em;
+    }
+    .BoxEsbocoImg{
+        height: 650px;
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .EsbocoImg{
+        height: 200px;
+        width: 150px;
+    }
 }
