@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portf-lio-Art/static/css/main.b5a6472b.css",
-    "main.js": "/Portf-lio-Art/static/js/main.ea14ba0b.js",
+    "main.css": "/Portf-lio-Art/static/css/main.09e2ecda.css",
+    "main.js": "/Portf-lio-Art/static/js/main.04e9d315.js",
     "static/js/453.48b86de1.chunk.js": "/Portf-lio-Art/static/js/453.48b86de1.chunk.js",
     "static/media/Design3.png": "/Portf-lio-Art/static/media/Design3.54c0dc57eb33eb2aea58.png",
     "static/media/Fundo2.png": "/Portf-lio-Art/static/media/Fundo2.38482b4b1827e4844268.png",
@@ -23,17 +23,20 @@
     "static/media/Krita.png": "/Portf-lio-Art/static/media/Krita.bd7c6e57d721ba66783c.png",
     "static/media/FlipaClip.png": "/Portf-lio-Art/static/media/FlipaClip.7c65109798a64b43a16b.png",
     "static/media/WCManoNegraBta.otf": "/Portf-lio-Art/static/media/WCManoNegraBta.4ed02fa923cb3598d923.otf",
+    "static/media/Referencia1.jpeg": "/Portf-lio-Art/static/media/Referencia1.c06298ac9446734dd41c.jpeg",
     "static/media/Sketchbook.png": "/Portf-lio-Art/static/media/Sketchbook.344ac4e8614e482b4c29.png",
     "static/media/Tinta2.png": "/Portf-lio-Art/static/media/Tinta2.9f33fd7a6772d49fd744.png",
+    "static/media/Referencia2.jpeg": "/Portf-lio-Art/static/media/Referencia2.f8d04ee0b165446bb20d.jpeg",
+    "static/media/Referencia3.jpeg": "/Portf-lio-Art/static/media/Referencia3.35e38ab8071f01d4466a.jpeg",
     "static/media/Tinda3.png": "/Portf-lio-Art/static/media/Tinda3.ba05f3b3ab69226a3f09.png",
     "static/media/Tinda4.png": "/Portf-lio-Art/static/media/Tinda4.dc6131787a27e2ebfde2.png",
     "index.html": "/Portf-lio-Art/index.html",
-    "main.b5a6472b.css.map": "/Portf-lio-Art/static/css/main.b5a6472b.css.map",
-    "main.ea14ba0b.js.map": "/Portf-lio-Art/static/js/main.ea14ba0b.js.map",
+    "main.09e2ecda.css.map": "/Portf-lio-Art/static/css/main.09e2ecda.css.map",
+    "main.04e9d315.js.map": "/Portf-lio-Art/static/js/main.04e9d315.js.map",
     "453.48b86de1.chunk.js.map": "/Portf-lio-Art/static/js/453.48b86de1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5a6472b.css",
-    "static/js/main.ea14ba0b.js"
+    "static/css/main.09e2ecda.css",
+    "static/js/main.04e9d315.js"
   ]
 }
