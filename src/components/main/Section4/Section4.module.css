@@ -83,39 +83,57 @@
 }
 @media screen and (max-width: 1024px){
     .BoxMihasArtes{
-        height: 1000px;
+        height: 1100px;
     }
     .TextMinhasArtes{
         font-size: 60px;
     }
     .BoxDiv{
-        width: 90%;      
+        width: 95%;      
         display: flex;
         justify-content: space-evenly;
         align-items: center;
         flex-wrap: wrap;
     }
     .DivImg{
-        width: 12em;
-        height: 16em;
+        width: 15em;
+        height: 21em;
     }
 }
 @media screen and (max-width: 800px){
     .BoxMihasArtes{
-        height: 1000px;
+        height: 1200px;
     }
     .TextMinhasArtes{
         font-size: 60px;
     }
     .BoxDiv{
-        width: 90%;
-        height: 50%;
+        width: 95%;
+        height: 70%;
         justify-content: center;
         align-items: center;
     }
     .DivImg{
-        width: 10em;
-        height: 15em;
+        width: 14em;
+        height: 21em;
+    }
+}
+@media screen and (max-width: 751px){
+    .BoxMihasArtes{
+        height: 1500px;
+    }
+    .TextMinhasArtes{
+        font-size: 60px;
+    }
+    .BoxDiv{
+        width: 95%;
+        height: 70%;
+        justify-content: center;
+        align-items: center;
+    }
+    .DivImg{
+        width: 13em;
+        height: 20em;
     }
 }
 @media screen and (max-width: 600px){
@@ -127,36 +145,73 @@
     }
     .BoxDiv{
         width: 100%;
-        height: 50%;
+        height: 70%;
         justify-content: center;
         align-items: center;
     }
     .DivImg{
-        width: 7em;
-        height: 14em;
+        width: 11em;
+        height: 20em;
+    }
+}
+@media screen and (max-width: 570px){
+    .BoxMihasArtes{
+        height: 1100px;
+    }
+    .TextMinhasArtes{
+        font-size: 50px;
+    }
+    .BoxDiv{
+        width: 95%;
+        height: 75%;
+        justify-content: center;
+        align-items: center;
+    }
+    .DivImg{
+        width: 10em;
+        height: 15em;
     }
 }
 @media screen and (max-width: 414px){
     .BoxMihasArtes{
-        height: 1000px;
+        height: 1100px;
     }
     .TextMinhasArtes{
         font-size: 50px;
     }
     .BoxDiv{
         width: 100%;
-        height: 60%;
+        height: 75%;
         justify-content: center;
         align-items: center;
     }
     .DivImg{
-        width: 7em;
+        width: 11em;
+        height: 16em;
+    }
+}
+@media screen and (max-width: 390px){
+    .BoxMihasArtes{
+        height: 1000px;
+        align-items: center;
+    }
+    .TextMinhasArtes{
+        font-size: 40px;
+    }
+    .BoxDiv{
+        width: 100%;
+        height: 75%;
+        justify-content: center;
+        align-items: center;
+    }
+    .DivImg{
+        width: 10em;
         height: 14em;
     }
 }
 @media screen and (max-width: 360px){
     .BoxMihasArtes{
-        height: 700px;
+        height: 1000px;
         align-items: center;
     }
     .TextMinhasArtes{
@@ -164,30 +219,30 @@
     }
     .BoxDiv{
         width: 100%;
-        height: 60%;
+        height: 75%;
         justify-content: center;
         align-items: center;
     }
     .DivImg{
-        width: 5em;
-        height: 10em;
+        width: 9em;
+        height: 14em;
     }
 }
 @media screen and (max-width: 320px){
     .BoxMihasArtes{
-        height: 800px;
+        height: 1000px;
     }
     .TextMinhasArtes{
         font-size: 40px;
     }
     .BoxDiv{
         width: 100%;
-        height: 50%;
+        height: 70%;
         justify-content: center;
         align-items: center;
     }
     .DivImg{
-        width: 5em;
-        height: 10em;
+        width: 8.5em;
+        height: 12em;
     }
 }

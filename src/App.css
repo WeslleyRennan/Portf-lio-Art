@@ -7,7 +7,6 @@ body{
     background-image: url(Ti.png);
     background-position: center, center;
     background-attachment: fixed;
-    background-repeat: no-repeat;
 }
 ::-webkit-scrollbar{
     width: 2px;
