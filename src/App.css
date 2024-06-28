@@ -6,6 +6,7 @@ body{
     background-color: #05D7FE;
     background-image: url(Ti.png);
     background-position: center, center;
+    background-size: cover;
     background-attachment: fixed;
 }
 ::-webkit-scrollbar{

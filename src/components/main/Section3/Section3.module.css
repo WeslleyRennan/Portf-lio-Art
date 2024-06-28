@@ -23,7 +23,20 @@ h1{
 }
 .SoftwaresImg{
     width: 120px;
+    transform: translateY(0px);
+    animation: float 5s ease-in-out infinite;
 }
+@keyframes float{
+    0%{
+      transform: translateY(0px)
+    }
+    50%{
+      transform: translateY(-5px)
+    }
+    100%{
+      transform: translateY(0px)
+    }
+  } 
 @media screen and (max-width: 1024px){
     h1{
         font-size: 3.2em;
@@ -48,8 +61,7 @@ h1{
 }
 @media screen and (max-width: 414px){
     .BoxSoftwares{
-        background-size: 500px;
-        background-position: top, center;
+        background-size: cover;
     }
     h1{
         font-size: 2.8em;
@@ -64,8 +76,7 @@ h1{
 }
 @media screen and (max-width: 360px){
     .BoxSoftwares{
-        background-size: 550px;
-        background-position: top, center;
+        background-size: cover;
     }
     .BoxSoftwaresImg{
         width: 90%;
@@ -77,8 +88,7 @@ h1{
 }
 @media screen and (max-width: 320px){
     .BoxSoftwares{
-        background-size: 560px;
-        background-position: top, center;
+        background-size: cover;
     }
     .BoxSoftwaresImg{
         width: 90%;
