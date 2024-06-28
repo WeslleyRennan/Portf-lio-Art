@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Portf-lio-Art/static/css/main.5758377c.css",
-    "main.js": "/Portf-lio-Art/static/js/main.6e58fb95.js",
+    "main.css": "/Portf-lio-Art/static/css/main.5054bf35.css",
+    "main.js": "/Portf-lio-Art/static/js/main.c4e8c0a2.js",
     "static/js/453.48b86de1.chunk.js": "/Portf-lio-Art/static/js/453.48b86de1.chunk.js",
     "static/media/Design3.png": "/Portf-lio-Art/static/media/Design3.54c0dc57eb33eb2aea58.png",
-    "static/media/Fundo2.png": "/Portf-lio-Art/static/media/Fundo2.38482b4b1827e4844268.png",
     "static/media/Design2.png": "/Portf-lio-Art/static/media/Design2.f3f3d59cd368c99ac93e.png",
-    "static/media/Design1.png": "/Portf-lio-Art/static/media/Design1.7528f0ebfcccf5826236.png",
-    "static/media/Fundo1.png": "/Portf-lio-Art/static/media/Fundo1.0792b2a2d2a72d798a03.png",
     "static/media/bumblebee.jpg": "/Portf-lio-Art/static/media/bumblebee.946e0c936ac231dd4eeb.jpg",
-    "static/media/Fundo3.png": "/Portf-lio-Art/static/media/Fundo3.e79fadc54b256e28094a.png",
     "static/media/luffy.jpg": "/Portf-lio-Art/static/media/luffy.150e291433dad7a7e511.jpg",
     "static/media/Desenho2.jpg": "/Portf-lio-Art/static/media/Desenho2.f2aef492586f82878932.jpg",
     "static/media/Desenho3.jpg": "/Portf-lio-Art/static/media/Desenho3.b540f6c71646d5ed789f.jpg",
     "static/media/Ti.png": "/Portf-lio-Art/static/media/Ti.b5b94c53f48a981ae9bb.png",
     "static/media/Tanjiro.jpeg": "/Portf-lio-Art/static/media/Tanjiro.4b0fefbdc0d02a6035c4.jpeg",
+    "static/media/Design1.png": "/Portf-lio-Art/static/media/Design1.2720c61b432aa90da679.png",
+    "static/media/Fundo3.png": "/Portf-lio-Art/static/media/Fundo3.1928cc11d4ec64c6894d.png",
+    "static/media/Fundo1.png": "/Portf-lio-Art/static/media/Fundo1.531a5caac122540911f0.png",
+    "static/media/Fundo2.png": "/Portf-lio-Art/static/media/Fundo2.08a1085904516054e4e7.png",
     "static/media/Zoro.jpeg": "/Portf-lio-Art/static/media/Zoro.6c44f14565aa6f90d86b.jpeg",
     "static/media/Nami.png": "/Portf-lio-Art/static/media/Nami.8f92ae485f7a71f9dfc4.png",
     "static/media/Luffy.png": "/Portf-lio-Art/static/media/Luffy.bbd1be191b6c83428b2e.png",
@@ -31,12 +31,12 @@
     "static/media/Tinda3.png": "/Portf-lio-Art/static/media/Tinda3.ba05f3b3ab69226a3f09.png",
     "static/media/Tinda4.png": "/Portf-lio-Art/static/media/Tinda4.dc6131787a27e2ebfde2.png",
     "index.html": "/Portf-lio-Art/index.html",
-    "main.5758377c.css.map": "/Portf-lio-Art/static/css/main.5758377c.css.map",
-    "main.6e58fb95.js.map": "/Portf-lio-Art/static/js/main.6e58fb95.js.map",
+    "main.5054bf35.css.map": "/Portf-lio-Art/static/css/main.5054bf35.css.map",
+    "main.c4e8c0a2.js.map": "/Portf-lio-Art/static/js/main.c4e8c0a2.js.map",
     "453.48b86de1.chunk.js.map": "/Portf-lio-Art/static/js/453.48b86de1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5758377c.css",
-    "static/js/main.6e58fb95.js"
+    "static/css/main.5054bf35.css",
+    "static/js/main.c4e8c0a2.js"
   ]
 }
